@@ -5,7 +5,7 @@ Disclaimer: I don't own any of the resources that can be found in this repositor
 
 I acknowledge that I won't use any of the resources in this repository for commercial purposes, and I won't modify, alter, or try to sell them.
 
-I won't take any responsibility for anything.
+I won't take any responsibility for anything whatsoever.
 
 
 ##
