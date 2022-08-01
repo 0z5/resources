@@ -1,3 +1,5 @@
+(ekşi sözlük için açtığım bir repo'dur :)-)
+
 # Resources
 A compilation of useful handbooks/guides/manuals I've found online. If you'd like to take a resource down, please create an issue, and I'll take it down after verifying you're authorized to claim a takedown.
 
